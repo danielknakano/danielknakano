@@ -1,5 +1,5 @@
 ## Olá, meu nome é Daniel Nakano. Seja bem vindo(a) ao meu GitHub. :)
-Tenho 22 anos e atualmente estudo Web Development na Trybe.
+Tenho 22 anos e atualmente estudo Web Development.
 
  <div>
   <a href="https://github.com/danielknakano">
